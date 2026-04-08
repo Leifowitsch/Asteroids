@@ -1,0 +1,1 @@
+A fully functional Asteroids game built with Python and Pygame, focusing on OOP principles and sprite management.
